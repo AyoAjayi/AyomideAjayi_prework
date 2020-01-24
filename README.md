@@ -13,11 +13,21 @@ The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/V7pJptVkx5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit.co](https://recordit.co/).
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 While building the app, it was hard finding certain icons such as the assitant editor. I think this was because the Xcode used in the video was outdated.
+
+
 ## License
 
     Copyright [2020] [Ayomide Ajayi]
